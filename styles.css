@@ -1,0 +1,14 @@
+/* --------------------------------------------- Estilos Generales ----- */
+body {
+	font-family: 'Poppins', sans-serif;
+	font-size: .95em;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Changa', sans-serif;
+  text-transform: uppercase;
+}
+
+h5, h6 {
+	font-family: 'Poppins', sans-serif;
+}
