@@ -19,9 +19,11 @@ h5, h6 {
 /* ---------------------------------- Formulario de Suscripcion ----- */
 
 .wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button {
-    font-family: 'Changa', sans-serif;
+    	font-family: 'Changa', sans-serif;
+  	text-transform: uppercase;
+	font-weight: 800 !important;
 }
 
 #subscribe-email input {
-    font-family: 'Poppins', sans-serif;
+    	font-family: 'Poppins', sans-serif;
 }
