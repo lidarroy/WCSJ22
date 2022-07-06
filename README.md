@@ -1,2 +1,2 @@
-# WCSJ22
+# 2022.sanjose.wordcamp
 CSS para sitio web del Wordcamp San José
